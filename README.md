@@ -1,0 +1,9 @@
+https://github.com/ph-explorer/source-oscm/blob/main/Amazon_Supply_Chain_Management_case_study.pdf
+https://github.com/ph-explorer/source-oscm/blob/main/Basics_of_Supply_Chain_Management.pdf
+https://github.com/ph-explorer/source-oscm/blob/main/From_Click_to_Boom.pdf
+https://github.com/ph-explorer/source-oscm/blob/main/Logistics_and_Retail_Management.pdf
+https://github.com/ph-explorer/source-oscm/blob/main/Logistics_and_Retail_Management.pdf
+https://github.com/ph-explorer/source-oscm/blob/main/Operations_and_Supply_Chain_Management_17th_Edition_.pdf
+https://github.com/ph-explorer/source-oscm/blob/main/Retail_Supply_Chain_Management.pdf
+https://github.com/ph-explorer/source-oscm/blob/main/Role_of_Explainable_Artificial_Intelligence_in_E-Commerce.pdf
+https://github.com/ph-explorer/source-oscm/blob/main/Walmart_Supply_Chain_Management_case_study.pdf
